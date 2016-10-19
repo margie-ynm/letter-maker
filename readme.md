@@ -4,7 +4,7 @@
 
 #### By Jim Padilla and Margie Nevarez
 
-#### To view on gh-pages click here: [JPCodes](jpcodes.github.io/letter-maker) [margie-ynm](margie-ynm.github.io/letter-maker)
+##### To view on gh-pages click here: [JPCodes](jpcodes.github.io/letter-maker) [margie-ynm](margie-ynm.github.io/letter-maker)
 
 ## Description
 
