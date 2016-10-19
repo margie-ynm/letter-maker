@@ -1,0 +1,18 @@
+#inputForm {
+  margin-bottom: 30px;
+}
+
+.letterOutput {
+  background: #E6DBBC;
+  box-shadow: 10px 10px;
+  min-height: 500px;
+  display: none;
+}
+
+.letter {
+  width: 75%;
+}
+
+.letter p {
+  margin-top: 50px;
+}
