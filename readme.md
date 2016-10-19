@@ -4,6 +4,8 @@
 
 #### By Jim Padilla and Margie Nevarez
 
+#### To view on gh-pages click here: [JPCodes](jpcodes.github.io/letter-maker) [margie-ynm](margie-ynm.github.io/letter-maker)
+
 ## Description
 
 The app takes two inputs, name and location, and outputs a letter with those entries included. The letter appears resembling a sheet of paper.
